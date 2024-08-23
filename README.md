@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**EYazanS/EYazanS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about coding, and I love working on a variety of projects, from web development to game programming.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I work with several programming languages, including C, Go, and C#.
+- I'm currently working on **Dragonfire**, a turn-based tactical RPG made in Unreal Engine.
+- I'm always learning new technologies and improving my existing skills.
+- I'm interested in open-source projects and collaborating with other developers.
+
+## My Projects
+
+Here are a few projects I've been working on:
+
+- **Dragonfire**: A turn-based tactical RPG made in Unreal Engine. 
+- **Photogo**: An image proofing SaaS made using Go.
+- **Raylib Games**: A collection of small games made using Rablib games including: Pong
+
+## Get in Touch
+
+- 📫 You can reach me via [yazan@serenbit.ps](mailto:yazan@serenbit.ps).
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/eyazan).
+
+Thanks for visiting my profile! Feel free to explore my repositories and contribute if you're interested.
