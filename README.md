@@ -15,7 +15,7 @@ Here are a few projects I've been working on:
 
 - **Dragonfire**: A turn-based tactical RPG made in Unreal Engine. 
 - **Photogo**: An image proofing SaaS made using Go.
-- **Raylib Games**: A collection of small games made using Rablib games including: Pong
+- **Raylib Games**: A collection of small games made using Rablib games including:[Pong](https://github.com/EYazanS/Raypong), [Snakeray](https://github.com/EYazanS/snakeray)
 
 ## Get in Touch
 
