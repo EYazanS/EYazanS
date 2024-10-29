@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about coding, and I love working on
 ## About Me
 
 - I work with several programming languages, including C, Go, and C#.
-- I'm currently working on **Dragonfire**, a turn-based tactical RPG made in Unreal Engine.
+- I'm currently working on **Dragonfire**, a turn-based tactical RPG made in a custom engine in C/C++.
 - I'm always learning new technologies and improving my existing skills.
 - I'm interested in open-source projects and collaborating with other developers.
 
