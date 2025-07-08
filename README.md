@@ -19,7 +19,7 @@ Here are a few projects I've been working on:
 
 ## Get in Touch
 
-- 📫 You can reach me via [yazan@serenbit.ps](mailto:yazan@serenbit.ps).
+- 📫 You can reach me via [yazan@nyxtline.com](mailto:yazan@nyxtline.com).
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/eyazan).
 
 Thanks for visiting my profile! Feel free to explore my repositories and contribute if you're interested.
